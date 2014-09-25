@@ -3,7 +3,7 @@ Web App Programming Challenge
 
 Using Python, [Flask](http://flask.pocoo.org), and JavaScript your task is to create a standalone RESTful
 web application which loads data from the CSV files (located in the data directory of this repository) and 
-plots three lines (one for each stock symbol) onto the chart using a charting library of your choice. The 
+plots three lines (one for each stock symbol) onto a chart using the charting library of your choice. The 
 y-axis of the chart should be the "Close" price field, the x-axis should be the "Date" field.
 
 Your code will be assessed on both quality, style, readability, and documentation. Please include a brief description of how you went about accomplishing the task and any hurdles you might have faced. In the description, besure to also include instructions for running the app. Final deliverable should be compressed and e-mailed back to us.
